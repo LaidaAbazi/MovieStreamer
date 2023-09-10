@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IbrahimGerbiqi/full-stack-gr3.git"
+    "url": "git+https://github.com/LaidaAbazi/MovieStreamer.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IbrahimGerbiqi/full-stack-gr3/issues"
+    "url": "https://github.com/LaidaAbazi/MovieStreamer.git/issues"
   },
-  "homepage": "https://github.com/IbrahimGerbiqi/full-stack-gr3#readme",
+  "homepage": "https://github.com/LaidaAbazi/MovieStreamer.git#readme",
   "dependencies": {
     "@prisma/client": "^4.13.0",
     "body-parser": "^1.20.2",
